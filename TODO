@@ -1,0 +1,10 @@
+To-do list
+==========
+
+1.) Figure out some way to display a '# ' after each command.
+2.) Add sequence number handling (was already in this version, but I
+    removed it for various reasons)
+2.) Make the server allocate a pseudo device for the client.
+3.) Add user authentication.
+4.) Encrypt the data in the packet.
+
